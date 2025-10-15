@@ -1,2 +1,2 @@
-# DARSA
-DARSA: Domain Adaptation Reaction-Informed for Synthetic Accessibility Assessment
+# GRSA
+Graph Reaction Synthetics accessibility predictions
